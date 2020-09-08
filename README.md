@@ -1,2 +1,2 @@
 # dice_game
-Dice game
+Dice game (2 dices)
